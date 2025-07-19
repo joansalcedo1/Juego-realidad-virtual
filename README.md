@@ -1,8 +1,12 @@
 # Experiencia de Terror en Realidad Virtual
 
 **Tipo de proyecto:** Videojuego de terror en Realidad Virtual (VR)  
-**Tecnología:** Unity + XR Interaction Toolkit  
-**Plataforma:** Meta Quest / PCVR  
+
+**Tecnología:** Unity + XR Interaction Toolkit  (versión 2022.3.36f1)
+
+**Plataforma:** Meta Quest / Windows
+
+**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto:
 
 
 ---
