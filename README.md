@@ -62,6 +62,7 @@ Este proyecto fue desarrollado junto a un compañero y cuenta con **múltiples s
 
 
 **Juan David Velez**  
+- github: https://github.com/juan-davidvp
 - Diseño de mecánicas VR 
 - Progrmación de enemigos
 - Programación de interacciones  
