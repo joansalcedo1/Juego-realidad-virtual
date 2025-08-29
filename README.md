@@ -6,7 +6,7 @@
 
 **Plataforma:** Meta Quest / Windows
 
-**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto:
+**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto: https://youtu.be/v4oeWMDneRk
 
 
 ---
